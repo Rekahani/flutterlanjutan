@@ -8,7 +8,7 @@
 ### Output Program
 
 #### Tampilan awal program
-!![gambar0.png](/gambar/gambar0.png) <br>
+![gambar0.png](/gambar/gambar0.png) <br>
 
 #### Password akan dicek sampai memenuhi kriteria
 ![gambar1.png](/gambar/gambar1.png)<br>
